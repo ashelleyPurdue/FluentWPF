@@ -6,6 +6,10 @@
     <UseWPF>true</UseWPF>
     <ApplicationIcon />
     <StartupObject />
+
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyName>FluentWPF</AssemblyName>
+    <RootNamespace>FluentWPF</RootNamespace>
   </PropertyGroup>
 
 </Project>
